@@ -1,4 +1,7 @@
 # Dark_Threshold
+
+!!! OLD : Please visit the most up-to-date project at: https://gitlab.com/Nohbdy/dark-threshold
+
 2D Zombie Game - Making Games With Ben (Tutorial Series on YouTube)
 
 YouTube Profile: https://www.youtube.com/user/makinggameswithben
